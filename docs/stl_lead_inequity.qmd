@@ -1,4 +1,5 @@
 ---
+title: "Blood Lead Level Exploration"
 author: Liz Peterson
 output: html_document
 editor_options: 
